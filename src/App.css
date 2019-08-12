@@ -1,0 +1,6 @@
+body{background:#e2e2e2;}
+.App{margin:0 auto; text-align:center;background:white;width:80%;padding:2%;}
+
+input, button{padding:5px;margin:5px;}
+
+ul li{list-style-type:none;}
